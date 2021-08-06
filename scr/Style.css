@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+:root{
+    --In-page:#96376F;
+    --hovermenu:#BD5F95;
+    --BackgroundColor:#f2f2f2;
+}
+
+
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: auto;
+    overflow-x: hidden  ;
+    
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+header{
+    
+    background-image: url("/Images/Background/hoteliour-1.jpg") ;
+    background-color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0,2);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 560px;
+    overflow: hidden;
+    
+}
+
+nav{
+background-color:white;
+margin-left: 2em;
+display: flex;
+max-width: max-content; 
+
+}
+
+#sociais-header{
+    margin-left: 2em;
+    height: 1em;
+    padding-bottom: 30px;
+}
+
+#conteiner-header-menu
+{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu-header{
+    padding: 10px;
+    margin: 15px;
+}
+.menu-header:hover{
+    background-color: var(--hovermenu);
+    transition: background-color 0.5s ease; 
+    color: white;
+}
+
+.img-logo
+{
+    margin-right: 7em;
+}
+
+#navesociais{
+    margin-left: 50px;
+}
+
+
+#mensage
+{
+    background-color: var(--BackgroundColor);
+    padding-top: 4em ;
+}
+
+#text-mensage{
+    text-align: center;
+    max-width: 60em;
+    margin-left: 30px;
+    float: left;
+   
+}
+
+#img-mensage{
+    margin-left: 30px;
+    margin-bottom: 30px ;
+    
+}
+
+#top-rooms{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap ;
+    margin-bottom: 2em;
+}
+
+#EconomicosRooms
+{
+    display: flex;
+    background-color: var(--BackgroundColor);
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+
+#modern-room , #luxuryroom{
+    background-color: var(--BackgroundColor);
+}
+
+#Services{
+    display:flex;   
+    flex-direction:row;
+    text-orientation:upright;
+    word-wrap: normal;
+    padding: 5em 0;
+    text-align: center;
+
+}
+
+#Services  img 
+{
+        cursor: pointer;
+}
+
+.read-more
+{
+
+}
