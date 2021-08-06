@@ -1,1 +1,1 @@
-that is a projetct to pratice copy site and pratice my reponsive css
+that is a projetct to pratice copy sites and pratice my reponsive css
