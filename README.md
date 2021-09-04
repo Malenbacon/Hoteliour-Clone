@@ -4,7 +4,7 @@ Esse é o projeto pra praticar minha capacidade de copiar sites de olho e treina
 
 # Imagens do projeto
 ![ResultadoHeader](/Images/Resultado/HoteliourHeader.jpg)
-![ResultadoHotels](/Images/Resultado/HoteliourHotelsBest.jpg)
+![ResultadoHotels](/Images/Resultado/HoteliourHotlsBest.jpg)
 ![ResultadoServices](/Images/Resultado/HoteliourServices.jpg)
 ![ResultadoFooter](/Images/Resultado/HoteliourFooter.jpg)
 
